@@ -1,0 +1,121 @@
+{
+  "code": "0",
+  "message": "",
+  "data": {
+    "pageId": "home",
+    "trackData": "",
+    "pageTitle": "首页",
+    "floorList": [
+      {
+        "floorType": "2000",
+        "cardList": [
+          {
+            "cardType": "20000",
+            "props": {
+              "image": {
+                "trackInfo": "",
+                "url": "https://saas-main-test.oss-cn-beijing.aliyuncs.com/R6U7b0e7UeY1S5QcWSP6R169hT7UhfLOh5n.png"
+              }
+            },
+            "jumpData": {
+              "jumpType": "",
+              "jumpUrl": "/common/banner",
+              "params": {
+
+              }
+            },
+            "trackInfo": ""
+          }
+        ]
+      },
+      {
+        "floorType": "2000",
+        "cardList": [
+          {
+            "cardType": "20000",
+            "props": {
+              "image": {
+                "trackInfo": "",
+                "url": "https://saas-main-test.oss-cn-beijing.aliyuncs.com/R6U7b0e7UeY1S5QcWSP6R169hT7UhfLOh5n.png"
+              }
+            },
+            "jumpData": {
+              "jumpType": "",
+              "jumpUrl": "/common/banner",
+              "params": {
+
+              }
+            },
+            "trackInfo": ""
+          }
+        ]
+      },
+      {
+        "floorType": "2000",
+        "cardList": [
+          {
+            "cardType": "20000",
+            "props": {
+              "image": {
+                "trackInfo": "",
+                "url": "https://saas-main-test.oss-cn-beijing.aliyuncs.com/R6U7b0e7UeY1S5QcWSP6R169hT7UhfLOh5n.png"
+              }
+            },
+            "jumpData": {
+              "jumpType": "",
+              "jumpUrl": "/common/banner",
+              "params": {
+
+              }
+            },
+            "trackInfo": ""
+          }
+        ]
+      },
+      {
+        "floorType": "2000",
+        "cardList": [
+          {
+            "cardType": "20000",
+            "props": {
+              "image": {
+                "trackInfo": "",
+                "url": "https://saas-main-test.oss-cn-beijing.aliyuncs.com/R6U7b0e7UeY1S5QcWSP6R169hT7UhfLOh5n.png"
+              }
+            },
+            "jumpData": {
+              "jumpType": "",
+              "jumpUrl": "/common/banner",
+              "params": {
+
+              }
+            },
+            "trackInfo": ""
+          }
+        ]
+      },
+      {
+        "floorType": "2000",
+        "cardList": [
+          {
+            "cardType": "20000",
+            "props": {
+              "image": {
+                "trackInfo": "",
+                "url": "https://saas-main-test.oss-cn-beijing.aliyuncs.com/R6U7b0e7UeY1S5QcWSP6R169hT7UhfLOh5n.png"
+              }
+            },
+            "jumpData": {
+              "jumpType": "",
+              "jumpUrl": "/common/banner",
+              "params": {
+
+              }
+            },
+            "trackInfo": ""
+          }
+        ]
+      }
+    ]
+  }
+}
