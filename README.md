@@ -1,16 +1,18 @@
-# flutter_legao
+## 解决方案
 
-A new Flutter project.
+flutter 端，乐高解决方案。适配iOS、安卓、web、macos、windows、lunux端
 
-## Getting Started
+uniapp 端，主要解决Web端和小程序端，Comming Soon...
 
-This project is a starting point for a Flutter application.
+iOS、安卓原生端 Comming Soon... 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+  
+  
+
+
+
+
+
