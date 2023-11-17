@@ -1,8 +1,4 @@
-/*
- * @Author: Paddy
- * @Date: 2022/11/29
- * @Name: floor_Function
- */
+
 import 'package:flutter_legao/common/templates/cards/view/card_view.dart';
 import 'package:flutter_legao/common/templates/floors/view/floor_view.dart';
 import 'package:flutter_legao/common/templates/floors/viewModel/floor.dart';

@@ -1,8 +1,4 @@
-/*
- * @Author: Paddy
- * @Date: 2022/11/28
- * @Name: card_Function
- */
+
 import 'package:flutter_legao/common/templates/cards/viewModel/card.dart';
 import 'package:flutter_legao/common/templates/factory/card_factory.dart';
 import 'package:flutter_legao/common/templates/floors/viewModel/floor.dart';
